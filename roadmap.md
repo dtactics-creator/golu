@@ -1,0 +1,4 @@
+- [x] Build Golu Veedu home page and route metadata.
+- [x] Build responsive interactive designer with distinct assets and stage settings.
+- [x] Implement object controls, undo/redo, local save/reopen, and image export/share.
+- [x] Verify the main create/design/save/export flow and run project tests.
